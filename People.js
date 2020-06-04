@@ -22,14 +22,18 @@ class People extends Component{
         return(
             <div className="People">
 
-                     <form>
+
+
+                      <form>
                          <label htmlFor="quantity">People (between 1 and 4):</label>
                          <input type="number" id="quantity" name="quantity" min="1" max="4"/>
                          <input onClick={this.join2} type="submit"/>
                      </form>
-                 
-                 
-             
+
+
+
+               
+
                 
             </div>
         );
