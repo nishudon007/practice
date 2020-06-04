@@ -1,0 +1,20 @@
+.hello{
+justify-content:center;
+margin-top: 100px;
+margin-left:580px;
+color:red;
+padding:10px;
+}
+.form{
+    justify-content:center;
+    text-align: center;
+   
+    align-items:center;
+    margin-top:150px;
+    margin-left:580px;
+    display:flex;
+    padding:10px;
+    flex-direction:column;
+    margin-bottom:0.25em;
+    position:absolute; 
+}
