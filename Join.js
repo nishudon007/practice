@@ -1,5 +1,6 @@
 import React,{Component} from "react";
 import "./Join.css";
+import "./try.css";
 import Pay from "./Pay";
 import ReactDOM from 'react-dom';
 class Join extends Component{
@@ -23,6 +24,8 @@ class Join extends Component{
  render(){
      return(
        <div class="dates">
+         <p>Manipal University Jaipur,village-dehmi kalan,Ajmer road,Jaipur,Rajasthan,303007 </p>
+         <div class="sticky">You are Welcome!</div>
      <h1> when would you like to join the convocation event</h1>
       <div className="hey">
         <div class="container mt-3">

@@ -13,7 +13,7 @@ class Pay extends Component{
                    
                  
                  <form>  
-                     <input type="radio" name="gender" value="male"/>PAYTM
+                    <input type="radio" name="gender" value="male"/>PAYTM
                     <input type="radio" name="gender" value="female"/>DEBIT CARD 
                     <input type="radio" name="gender" value="other"/> Others
 
